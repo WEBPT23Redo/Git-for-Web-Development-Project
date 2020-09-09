@@ -11,7 +11,7 @@
     8. What elements can I add an id to? An ID can be added to any element
     9. How many times can I use the same id on a page? You can only use the same id once on a page
     10. What is a class? A class is used to point a class name in CSS. Example: <h2 class="">
-    11. What elements can I add a class to? 
+    11. What elements can I add a class to? A class can be added to any element
     12. How many times can I use the same class on a page? Classes can be used multiple times on the same page
     13. How do I get my link to open in a new tab? <a href="" target="_blank /a>
     14. What is the alt attribute in the image tag used for? The alt tag is used when an image cannot be displayed, it would appear when you hovered your mouse pointer over the image.
@@ -22,7 +22,7 @@
     CSS: #myid {  
 
     }
-    16. What is the difference between a section and a div
+    16. What is the difference between a section and a div <section> means the content is grouped, <div> doesn't represent anything, a div should be used when no other element is appropiate
     17. What is CSS used for? CSS is used to add styling to a page
     18. How to we select an element? Example - every h2 on the page h2 {
 
@@ -42,7 +42,7 @@
 
     }
 
-    22. What is a parent child selector? When would this be useful? 
+    22. What is a parent child selector? When would this be useful? A selector that selects everything in an element. It is useful when you want a section of the page to have the same styling.
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
     25. What do we use the change the spacing between lines?
