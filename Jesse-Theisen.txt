@@ -30,12 +30,18 @@
     19. What is the difference between a class and an id? - Give me an example of when I might use each one 
     a class can be used multiple times, and an id can only be used once.
     <h2 class="myclass"></h2><h3 id="myid"></h3>
-    CSS Example: id: #myid  class: myclass {
+    CSS Example: id: #myid  class: .myclass {
 
     }
-    
-    20. How do we select classes in CSS?
-    21. How do we select a p element with a single class of “human””?
+
+    20. How do we select classes in CSS? myclass {
+
+    }
+
+    21. How do we select a p element with a single class of “human””? .human p {
+
+    }
+
     22. What is a parent child selector? When would this be useful? 
     23. How do you select all links within a div with the class of sidebar?
     24. What is a pseudo selector?
@@ -49,9 +55,9 @@
     32. Using the command line - how do I see a list of files/folders in my current folder?
     33. How do I remove a file via the command line? Why do I have to be careful with this? 
     34. Why should I use version control? 
-    35. How often should I commit to github?
-    36. What is the command we would use to push our repo up to github? 
-    37. Walk me through Lambda's git flow. 
+    35. How often should I commit to github? After every change whether it be an update or fix(all the time)
+    36. What is the command we would use to push our repo up to github? git push
+    37. Walk me through Lambda's git flow. fork the Repo, add TL as collaborator, Clone repo to computer, make a change, then git status(to check if it was added), git add .(adds all files), git commit -m ""(commit message), git push -u origin branch-name
 
 Stretch Questions
 
