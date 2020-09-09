@@ -1,6 +1,7 @@
   Project codepen link:  https://codepen.io/theiseja/pen/PoNOzQX
     
-    1. What is Semantic HTML? Semantic HTML gives meaning to the web page rather than just presentation. Examples of semantic tags are: All header tags h1 through h6, 
+    1. What is Semantic HTML?
+    Semantic HTML gives meaning to the web page rather than just presentation. Examples of semantic tags are: All header tags h1 through h6, 
 
     2. What is HTML used for?  
     HTML is used to develop websites
