@@ -38,17 +38,21 @@
 
     }
 
-    21. How do we select a p element with a single class of “human””? .human p {
+    21. How do we select a p element with a single class of “human””? p.human {
 
     }
 
     22. What is a parent child selector? When would this be useful? A selector that selects everything in an element. It is useful when you want a section of the page to have the same styling.
-    23. How do you select all links within a div with the class of sidebar?
-    24. What is a pseudo selector?
-    25. What do we use the change the spacing between lines?
-    26. What do we use to change the spacing between letters?
-    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize?
-    28. How do I add a 1px border around my div that is dotted and black?
+    23. How do you select all links within a div with the class of sidebar? div.sidebar {
+
+    }
+    24. What is a pseudo selector? A pseudo selector selects a specific state such as :hover
+    25. What do we use the change the spacing between lines? line-spacing 
+    26. What do we use to change the spacing between letters? letter-spacing
+    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? text-transform
+    28. How do I add a 1px border around my div that is dotted and black? div {
+      border: 1px ;
+    }
     29. How do I select everything on the page? 
     30. How do I write a comment in CSS?
     31. How do I find out what file I am in, when I am using the command line? 
