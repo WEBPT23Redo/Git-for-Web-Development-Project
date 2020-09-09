@@ -30,6 +30,10 @@
     19. What is the difference between a class and an id? - Give me an example of when I might use each one 
     a class can be used multiple times, and an id can only be used once.
     <h2 class="myclass"></h2><h3 id="myid"></h3>
+    CSS Example: id: #myid  class: myclass {
+
+    }
+    
     20. How do we select classes in CSS?
     21. How do we select a p element with a single class of “human””?
     22. What is a parent child selector? When would this be useful? 
