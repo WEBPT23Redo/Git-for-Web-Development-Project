@@ -5,7 +5,7 @@
     2. What is HTML used for?  HTML is used to develop websites
     3. What is an attribute and where do we put it? An HTML attribute goes in the starter tag example: <img src="">
     4. What is the h1 tag used for? How many times should I use it on a page? The H1 tag should only be used once, generally on the company name. It is a headline tag which goes h1-h6
-    5. Name two tags that have required attributes <img src="url">, <input type="text">, <label for>
+    5. Name two tags that have required attributes <img src="url">, <input name="", type="">
     6. What do we put in the head of our HTML document? We would use <!DOCTYPE html>, <head>, <title></title>, Stylesheets would also go between the head tags.
     7. What is an id? An ID is a unique identifer for a tag, However you can't use the same id multiple times.
     8. What elements can I add an id to? An ID can be added to any element
@@ -15,7 +15,11 @@
     12. How many times can I use the same class on a page? Classes can be used multiple times on the same page
     13. How do I get my link to open in a new tab? <a href="" target="_blank /a>
     14. What is the alt attribute in the image tag used for? The alt tag is used when an image cannot be displayed, it would appear when you hovered your mouse pointer over the image.
-    15. How do I reference an id? An ID would be used in CSS, example: #myid {  in html it would be <h1 id="myid">
+    15. How do I reference an id? An ID would be used in CSS, example: 
+    
+    in html it would be <h1 id="myid">
+    
+    CSS: #myid {  
 
     }
     16. What is the difference between a section and a div
